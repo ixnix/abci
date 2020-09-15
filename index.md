@@ -12,7 +12,7 @@ The ABCI research group is located in the Department of [Geological and Mining E
 - PhD in Atmospheric Sciences, Georgia Institute of Technology, 2014
 - BS in Geoinformatics, Beijing Normal University, 2007
 - [Department profile](https://www.mtu.edu/geo/department/faculty/xi-xin/) [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)  [ORCID](https://orcid.org/0000-0003-3804-2735)
-- <a class="twitter-timeline" data-height="200" data-theme="light" href="https://twitter.com/_xin_xi?ref_src=twsrc%5Etfw">Tweets by _xin_xi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="200" data-theme="light" href="https://twitter.com/_xin_xi?ref_src=twsrc%5Etfw">Tweets by _xin_xi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Publications
 [full list](\https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
