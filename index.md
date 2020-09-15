@@ -8,7 +8,7 @@ The ABCI research group is located in the Department of [Geological and Mining E
 - Dr. Xi is awarded a 3-yr grant from NASA on the study of desertification impact on aeolian dust and human health using remote sensing and chemical transport models. PhD student opportunities are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu).
 
 ## Data
-- [duISD](): a global dust-climate dataset by merging dust records from weather stations and remotely-sensed soil moisture and vegetation properties.
+- [duISD](http://dx.doi.org/10.17632/399fd6jzm4.1): a global dust-climate dataset by merging the dust records from surface weather stations and remotely-sensed soil moisture and vegetation properties.
 
 ## Personnel
 ### Dr. Xin Xi, Assistant Professor
