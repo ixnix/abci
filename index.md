@@ -7,6 +7,9 @@ The ABCI research group is located in the Department of [Geological and Mining E
 ### 2020/09
 - Dr. Xi is awarded a 3-yr grant from NASA on the study of desertification impact on aeolian dust and human health using remote sensing and chemical transport models. PhD student opportunities are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu).
 
+## Data
+- [duISD](): a global dust-climate dataset by merging dust records from weather stations and remotely-sensed soil moisture and vegetation properties.
+
 ## Personnel
 ### Dr. Xin Xi, Assistant Professor
 - PhD in Atmospheric Sciences, Georgia Institute of Technology, 2014
@@ -21,8 +24,5 @@ The ABCI research group is located in the Department of [Geological and Mining E
 - Atmospheric Physics, 2018 fall
 - Advanced Geoinformatics, 2020 spring, 2020 fall
 
-## Data
 
 
-
-## Alumni
