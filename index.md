@@ -5,7 +5,7 @@ The ABCI research group is located in the Department of Geological and Mining En
 
 ## News
 ### 2020/09
-- Dr. Xi is awarded a 3-yr grant from NASA on the study of desertification on aeolian dust and human health using remote sensing and chemical transport models. PhD student opportunities are available. Please contact Dr. Xi for information.
+- Dr. Xi is awarded a 3-yr grant from NASA on the study of desertification on aeolian dust and human health using remote sensing and chemical transport models. PhD student opportunities are available. Interested applicants should contact [Dr. Xi](/xinxi@mtu.edu).
 
 #Personnel
 
