@@ -1,7 +1,7 @@
 # Aerosol-Biosphere-Climate Interactions Research Group
 
 ## About
-The ABCI research group is located in the Department of [Geological and Mining Engineering and Sciences](https://www.mtu.edu/geo/), Michigan Technological University. The group has broad interests in the life cycle of atmospheric aerosols, their interactions with the biosphere and climate, and consequences on air quality and human well-being. The group applies an integrated approach of remote sensing, statistical modeling, and physical modeling to study the mechcanisms, relationships, and impact of aerosol-biosphere-climate interactions.
+The ABCI research group is located in the Department of [Geological and Mining Engineering and Sciences](https://www.mtu.edu/geo/), Michigan Technological University. The group has broad interests in the life cycle of atmospheric aerosols, their interactions with the biosphere and climate, and consequences on air quality and agriculture. The group applies an integrated approach of remote sensing, statistical modeling, and physical modeling to study the mechcanisms, relationships, and impact of aerosol-biosphere-climate interactions.
 
 ## News
 ### 2020/09
