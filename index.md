@@ -11,7 +11,7 @@ The ABCI research group is located in the Department of [Geological and Mining E
 - [duISD](http://dx.doi.org/10.17632/399fd6jzm4.1): a global dust-climate dataset by merging the dust records from surface weather stations and remotely-sensed soil moisture and vegetation properties.
 
 ## Personnel
-### Dr. Xin Xi, Assistant Professor ([CV](/abci/cvxi.md))
+### Dr. Xin Xi, Assistant Professor ([CV](/abci/cvxi))
 - PhD in Atmospheric Sciences, Georgia Institute of Technology, 2014
 - BS in Geoinformatics, Beijing Normal University, 2007
 - <a href="https://twitter.com/_xin_xi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @_xin_xi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> [Email](mailto:xinxi@mtu.edu); [Department Profile](https://www.mtu.edu/geo/department/faculty/xi-xin/); [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en); [ORCID](https://orcid.org/0000-0003-3804-2735)
