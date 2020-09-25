@@ -5,13 +5,13 @@ The ABCI research group is located in the Department of [Geological and Mining E
 
 ## News
 ##### 2020/09
-- Dr. Xi is awarded a 3-yr grant from NASA on the study of desertification impact on aeolian dust and human health using remote sensing and chemical transport models. PhD student opportunities are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu).
+- Dr. Xi is awarded a 3-yr grant from NASA ([Link to project page](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central)). PhD student opportunities are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu).
 
 ## Project
 - Mapping and modeling desertification and its impact on aeolian dust and human health in Central Asia ([Link to project page](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central))
 
 ## Data
-- [duISD](http://dx.doi.org/10.17632/399fd6jzm4.1): a global dust-climate dataset by merging the dust records from surface weather stations and remotely-sensed soil moisture and vegetation properties.
+- duISD: A global homogenized weather station-based dataset for mapping dust sources and characterizing dust variability, dust-climate connection, and the climatic sensitivity of dust. Latest version is available [here](http://dx.doi.org/10.17632/399fd6jzm4.1)
 
 ## Personnel
 ### Dr. Xin Xi, Assistant Professor ([CV](/abci/cvxi))
