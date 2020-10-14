@@ -5,8 +5,8 @@
 * Phone: 906-487-2029
 
 ## Positions
-* 2019-, Assistant Professor, Michigan Technological University, MI 
-* 2018-2019, Research Assistant Professor, Michigan Technological University, MI 
+* 2019-, Assistant Professor, Department of Geological and Mining Engineering and Sciences, Michigan Technological University, MI 
+* 2018-2019, Research Assistant Professor, Department of Physics, Michigan Technological University, MI 
 * 2016-2018, Research Associate, NOAA NESDIS STAR, MD 
 * 2014-2016, NASA Postdoctoral Fellow, NASA Ames Research Center, CA 
 
