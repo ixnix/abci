@@ -29,7 +29,7 @@ The ABCI research group is located in the Department of [Geological and Mining E
 * Xi, X.: Global aeolian dust variations and trends: a revisit of dust event and visibility observations from surface weather stations, Atmos. Chem. Phys. Discuss., https://doi.org/10.5194/acp-2020-813, in review, 2020.
 
 *Published Peer-Reviewed*
-* Xi, X., Ignatov, A., & Zhou, X. (2019). Exploring MERRA-2 global meteorological and aerosol reanalyses for improved SST retrieval. Remote Sensing of Environment, 223, 1-7. https://doi.org/10.1016/j.rse.2019.01.011
+* Xi, X., Ignatov, A., & Zhou, X. (2019). Exploring MERRA-2 global meteorological and aerosol reanalyses for improved SST retrieval. Remote Sensing of Environment, 223, 1-7. [https://doi.org/10.1016/j.rse.2019.01.011](https://doi.org/10.1016/j.rse.2019.01.011).
 * Johnson, M. S., Xi, X., Jeong, S., Yates, E. L., Iraci, L. T., Tanaka, T., Loewenstein, M., Tadic, J. M., & Fischer, M. L. (2016). Investigating seasonal methane emissions in Northern California using airborne measurements and inverse modeling. Journal of Geophysical Research: Atmospheres, 121(22), 13,753-713,767. https://doi.org/10.1002/2016JD025157
 * Xi, X., Johnson, M. S., Jeong, S., Fladeland, M., Pieri, D., Diaz, J. A., & Bland, G. L. (2016). Constraining the sulfur dioxide degassing flux from Turrialba volcano, Costa Rica using unmanned aerial system measurements. Journal of Volcanology and Geothermal Research, 325, 110-118. https://doi.org/10.1016/j.jvolgeores.2016.06.023
 * Xi, X., & Sokolik, I. N. (2016). Quantifying the anthropogenic dust emission from agricultural land use and desiccation of the Aral Sea in Central Asia. Journal of Geophysical Research: Atmospheres, 121, 12,270-12,281, https://doi.org/10.1002/2016JD025556
