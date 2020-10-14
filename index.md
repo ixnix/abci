@@ -25,9 +25,18 @@ The ABCI research group is located in the Department of [Geological and Mining E
 ## Publications
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
 
+*Under Review*
+* Xi, X.: Global aeolian dust variations and trends: a revisit of dust event and visibility observations from surface weather stations, Atmos. Chem. Phys. Discuss., https://doi.org/10.5194/acp-2020-813, in review, 2020.
+
+*Published Peer-Reviewed*
+* Xi, X., Ignatov, A., & Zhou, X. (2019). Exploring MERRA-2 global meteorological and aerosol reanalyses for improved SST retrieval. Remote Sensing of Environment, 223, 1-7. https://doi.org/10.1016/j.rse.2019.01.011
+* Johnson, M. S., Xi, X., Jeong, S., Yates, E. L., Iraci, L. T., Tanaka, T., Loewenstein, M., Tadic, J. M., & Fischer, M. L. (2016). Investigating seasonal methane emissions in Northern California using airborne measurements and inverse modeling. Journal of Geophysical Research: Atmospheres, 121(22), 13,753-713,767. https://doi.org/10.1002/2016JD025157
+* Xi, X., Johnson, M. S., Jeong, S., Fladeland, M., Pieri, D., Diaz, J. A., & Bland, G. L. (2016). Constraining the sulfur dioxide degassing flux from Turrialba volcano, Costa Rica using unmanned aerial system measurements. Journal of Volcanology and Geothermal Research, 325, 110-118. https://doi.org/10.1016/j.jvolgeores.2016.06.023
+* Xi, X., & Sokolik, I. N. (2016). Quantifying the anthropogenic dust emission from agricultural land use and desiccation of the Aral Sea in Central Asia. Journal of Geophysical Research: Atmospheres, 121, 12,270-12,281, https://doi.org/10.1002/2016JD025556
+* Xi, X., & Sokolik, I. N. (2015). Dust interannual variability and trend in Central Asia from 2000 to 2014 and their climatic linkages. Journal of Geophysical Research: Atmospheres, 120(23), 12,175-112,197. https://doi.org/10.1002/2015JD024092
+* Xi, X., & Sokolik, I. N. (2015). Seasonal dynamics of threshold friction velocity and dust emission in Central Asia. Journal of Geophysical Research: Atmospheres, 120(4), 1536-1564. https://doi.org/10.1002/2014JD022471
+* Xi, X., & Sokolik, I. N. (2012). Impact of Asian Dust Aerosol and Surface Albedo on Photosynthetically Active Radiation and Surface Radiative Balance in Dryland Ecosystems. Advances in Meteorology, 2012, 1-15. https://doi.org/10.1155/2012/276207
+
 ## Teaching
 - Atmospheric Physics, 2018 fall
 - Advanced Geoinformatics, 2020 spring, 2020 fall
-
-
-
