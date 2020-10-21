@@ -14,7 +14,7 @@ The ABCI research group is located in the Department of [Geological and Mining E
 - Mapping and modeling desertification and its impact on aeolian dust and human health in Central Asia ([Link to project page](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central))
 
 ## Data
-- duISD: A global homogenized weather station-based dataset for mapping dust sources and characterizing dust variability, dust-climate connection, and the climatic sensitivity of dust. Latest version is available [here](http://dx.doi.org/10.17632/399fd6jzm4.1)
+- duISD: A global homogenized weather station-based dataset for mapping dust sources and characterizing dust variability, dust-climate connection, and the climatic sensitivity of dust. Latest version is available [here](http://dx.doi.org/10.5281/zenodo.4107346)
 
 ## Personnel
 ### Dr. Xin Xi, Assistant Professor ([CV](/abci/cvxi))
