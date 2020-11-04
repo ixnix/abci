@@ -7,7 +7,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ##### 2020/10
 - Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf) on the project description.
 ##### 2020/09
-- Dr. Xi is awarded a 3-yr grant from NASA ([Link to project page](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central)). 
+- Dr. Xi is awarded a 3-yr grant from NASA ([project info](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central)). 
 
 ## Vacancies
 - Fully supported PhD student positions are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu) with latest CV.
