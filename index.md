@@ -10,7 +10,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - Dr. Xi is awarded a 3-yr grant from NASA ([project info](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central)). 
 
 ## Vacancies
-- Fully supported PhD student positions are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu) with latest CV.
+- Fully supported PhD positions are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu) with latest CV.
 
 ## Project
 - Mapping and modeling desertification and its impact on aeolian dust and human health in Central Asia ([Link to project page](https://lcluc.umd.edu/projects/mapping-and-modeling-desertification-and-its-impact-aeolian-dust-and-human-health-central))
