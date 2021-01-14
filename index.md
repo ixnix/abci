@@ -42,4 +42,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 
 ## Teaching
 - Atmospheric Physics, 2018 fall
-- Advanced Geoinformatics, 2020 spring, 2020 fall
+- Advanced Geoinformatics, 2020 spring, 2020 fall, 2021 spring
+
+## Notes
+- Dr. Alan Robock, editor of Reviews of Geophysics and a professor at Rutgers, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers), [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures).
