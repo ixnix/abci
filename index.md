@@ -41,8 +41,8 @@ The ABCI research group is located in the [Department of Geological and Mining E
 * Xi, X., and Sokolik, I. N. (2012). Impact of Asian Dust Aerosol and Surface Albedo on Photosynthetically Active Radiation and Surface Radiative Balance in Dryland Ecosystems. Advances in Meteorology, 2012, 1-15. [https://doi.org/10.1155/2012/276207](https://doi.org/10.1155/2012/276207)
 
 ## Teaching
-- Atmospheric Physics, 2018 fall
-- Advanced Geoinformatics, 2020 spring, 2020 fall, 2021 spring
+- Atmospheric Physics, 2018 Fall
+- Advanced Geoinformatics, 2020 Spring, 2020 Fall, 2021 Spring
 
 ## Notes
-- Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers) and [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
+- Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers); [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
