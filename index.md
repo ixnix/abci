@@ -23,7 +23,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ### Dr. Xin Xi, Assistant Professor ([CV](/abci/cvxi))
 - PhD in Atmospheric Sciences, Georgia Institute of Technology, 2014
 - BS in Geoinformatics, Beijing Normal University, 2007
-- <a href="https://twitter.com/_xin_xi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @_xin_xi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> [Email](mailto:xinxi@mtu.edu); [Department Profile](https://www.mtu.edu/geo/department/faculty/xi-xin/); [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en); [ORCID](https://orcid.org/0000-0003-3804-2735)
+- [Email](mailto:xinxi@mtu.edu); [Department Profile](https://www.mtu.edu/geo/department/faculty/xi-xin/); [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en); [ORCID](https://orcid.org/0000-0003-3804-2735); [Twitter](https://twitter.com/_xin_xi)
 
 ## Peer-reviewed Publications
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
@@ -45,4 +45,4 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - Advanced Geoinformatics, 2020 spring, 2020 fall, 2021 spring
 
 ## Notes
-- Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers) and [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures).
+- Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers) and [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
