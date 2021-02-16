@@ -29,7 +29,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
 
 *Under Review*
-* Xi, X.: Global aeolian dust variations and trends: a revisit of dust event and visibility observations from surface weather stations, Atmos. Chem. Phys. Discuss., [https://doi.org/10.5194/acp-2020-813](https://doi.org/10.5194/acp-2020-813), in review, 2020.
+* Xi, X., Global aeolian dust variations and trends: a revisit of dust event and visibility observations from surface weather stations. Journal of Geophysical Research: Atmospheres.
 
 *Published*
 * Xi, X., Ignatov, A., and Zhou, X. (2019). Exploring MERRA-2 global meteorological and aerosol reanalyses for improved SST retrieval. Remote Sensing of Environment, 223, 1-7. [https://doi.org/10.1016/j.rse.2019.01.011](https://doi.org/10.1016/j.rse.2019.01.011).
