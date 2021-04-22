@@ -38,7 +38,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 * Xi, X., and Sokolik, I. N. (2016). Quantifying the anthropogenic dust emission from agricultural land use and desiccation of the Aral Sea in Central Asia. Journal of Geophysical Research: Atmospheres, 121, 12,270-12,281, [https://doi.org/10.1002/2016JD025556](https://doi.org/10.1002/2016JD025556)
 * Xi, X., and Sokolik, I. N. (2015). Dust interannual variability and trend in Central Asia from 2000 to 2014 and their climatic linkages. Journal of Geophysical Research: Atmospheres, 120(23), 12,175-112,197. [https://doi.org/10.1002/2015JD024092](https://doi.org/10.1002/2015JD024092)
 * Xi, X., and Sokolik, I. N. (2015). Seasonal dynamics of threshold friction velocity and dust emission in Central Asia. Journal of Geophysical Research: Atmospheres, 120(4), 1536-1564. [https://doi.org/10.1002/2014JD022471](https://doi.org/10.1002/2014JD022471) [open access]
-* Xi, X., and Sokolik, I. N. (2012). Impact of Asian Dust Aerosol and Surface Albedo on Photosynthetically Active Radiation and Surface Radiative Balance in Dryland Ecosystems. Advances in Meteorology, 2012, 1-15. [https://doi.org/10.1155/2012/276207](https://doi.org/10.1155/2012/276207) [open access](https://downloads.hindawi.com/journals/amete/2012/276207.pdf)
+* Xi, X., and Sokolik, I. N. (2012). Impact of Asian Dust Aerosol and Surface Albedo on Photosynthetically Active Radiation and Surface Radiative Balance in Dryland Ecosystems. Advances in Meteorology, 2012, 1-15. [https://doi.org/10.1155/2012/276207](https://doi.org/10.1155/2012/276207) [[open access]](https://downloads.hindawi.com/journals/amete/2012/276207.pdf)
 
 ## Teaching
 - Atmospheric Physics, 2018 Fall
