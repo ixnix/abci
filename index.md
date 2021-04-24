@@ -28,10 +28,8 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ## Peer-reviewed Publications
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
 
-*Under Review*
-* Xi, X., Global aeolian dust variations and trends: a revisit of dust event and visibility observations from surface weather stations. Journal of Geophysical Research: Atmospheres.
-
 *Published*
+* Xi, X. (2021). Revisiting the recent dust trends and climate drivers using horizontal visibility and present weather observations. Journal of Geophysical Research: Atmospheres, 126, e2021JD034687. [https://doi.org/10.1029/2021JD034687](https://doi.org/10.1029/2021JD034687) 
 * Xi, X., Ignatov, A., and Zhou, X. (2019). Exploring MERRA-2 global meteorological and aerosol reanalyses for improved SST retrieval. Remote Sensing of Environment, 223, 1-7. [https://doi.org/10.1016/j.rse.2019.01.011](https://doi.org/10.1016/j.rse.2019.01.011).
 * Johnson, M. S., Xi, X., Jeong, S., Yates, E. L., Iraci, L. T., Tanaka, T., Loewenstein, M., Tadic, J. M., and Fischer, M. L. (2016). Investigating seasonal methane emissions in Northern California using airborne measurements and inverse modeling. Journal of Geophysical Research: Atmospheres, 121(22), 13,753-713,767. [https://doi.org/10.1002/2016JD025157](https://doi.org/10.1002/2016JD025157)
 * Xi, X., Johnson, M. S., Jeong, S., Fladeland, M., Pieri, D., Diaz, J. A., and Bland, G. L. (2016). Constraining the sulfur dioxide degassing flux from Turrialba volcano, Costa Rica using unmanned aerial system measurements. Journal of Volcanology and Geothermal Research, 325, 110-118. [https://doi.org/10.1016/j.jvolgeores.2016.06.023](https://doi.org/10.1016/j.jvolgeores.2016.06.023)
