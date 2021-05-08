@@ -9,7 +9,6 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - Dr. Xi gave an oral presentation at the Central Asian Regional Information Network workshop (virtual).
 ##### 2020/10
 - Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf) on the project description.
-
 ##### 2020/09
 - Dr. Xi is awarded a 3-yr grant from NASA to study desertification and air quality in Central Asia. 
 
@@ -29,12 +28,12 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - [Email](mailto:xinxi@mtu.edu); [Department Profile](https://www.mtu.edu/geo/department/faculty/xi-xin/); [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en); [ORCID](https://orcid.org/0000-0003-3804-2735); [Twitter](https://twitter.com/_xin_xi)
 
 ### Yuxi Jin, PhD student, 2021-
-- MS Atmospheric Science, University of Minnesota, Twin Cities
-- BS Environmental Science, University of Minnesota, Twin Cities
+- MS in Atmospheric Science, University of Minnesota, Twin Cities
+- BS in Environmental Science, University of Minnesota, Twin Cities
 
 ### Di Sang, PhD student, 2021-
-- MS Oceanography, University of Miami
-- BS Atmospheric Sciences, Lanzhou University, China
+- MS in Oceanography, University of Miami
+- BS in Atmospheric Sciences, Lanzhou University, China
 
 ## Peer-reviewed Publications
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
@@ -53,7 +52,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - Atmospheric Physics, 2018 Fall
 - Advanced Geoinformatics, 2020 Spring, 2020 Fall, 2021 Spring
 - Introduction to GIS, 2021 Fall
-- Python programming for geosciences, 2021 Fall
+- Python Programming for Geosciences, 2021 Fall
 
 ## Notes
 - Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers); [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
