@@ -7,8 +7,10 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ##### 2021/05
 - Two new PhD students (Yuxi Jin and Di Sang) joined the group. Welcome!
 - Dr. Xi gave an oral presentation at the Central Asian Regional Information Network workshop (virtual).
+- 
 ##### 2020/10
 - Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf) on the project description.
+
 ##### 2020/09
 - Dr. Xi is awarded a 3-yr grant from NASA to study desertification and air quality in Central Asia. 
 
