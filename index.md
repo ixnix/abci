@@ -28,6 +28,14 @@ The ABCI research group is located in the [Department of Geological and Mining E
 - BS in Geoinformatics, Beijing Normal University, 2007
 - [Email](mailto:xinxi@mtu.edu); [Department Profile](https://www.mtu.edu/geo/department/faculty/xi-xin/); [Google Scholar](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en); [ORCID](https://orcid.org/0000-0003-3804-2735); [Twitter](https://twitter.com/_xin_xi)
 
+### Yuxi Jin, PhD student, 2021-
+- MS Atmospheric Science, University of Minnesota, Twin Cities
+- BS Environmental Science, University of Minnesota, Twin Cities
+
+### Di Sang, PhD student, 2021-
+- MS Oceanography, University of Miami
+- BS Atmospheric Sciences, Lanzhou University, China
+
 ## Peer-reviewed Publications
 [Full list](https://scholar.google.com/citations?user=_NHQ-9MAAAAJ&hl=en)
 
@@ -44,6 +52,8 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ## Teaching
 - Atmospheric Physics, 2018 Fall
 - Advanced Geoinformatics, 2020 Spring, 2020 Fall, 2021 Spring
+- Introduction to GIS, 2021 Fall
+- Python programming for geosciences, 2021 Fall
 
 ## Notes
 - Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers); [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
