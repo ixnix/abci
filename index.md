@@ -7,6 +7,7 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ##### 2021/05
 - Two new PhD students (Yuxi Jin and Di Sang) joined the group. Welcome!
 - Dr. Xi gave an oral presentation at the Central Asian Regional Information Network workshop (virtual).
+- New publication at JGR: [Revisiting the recent dust trends and climate drivers using horizontal visibility and present weather observations](https://doi.org/10.1029/2021JD034687). The paper comes with an initial version (v1) of duISD product, which can be downloaded [here](http://dx.doi.org/10.5281/zenodo.4107346).
 
 ##### 2020/10
 - Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf) on the project description.
