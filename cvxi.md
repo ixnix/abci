@@ -46,3 +46,9 @@
 * Gordon Research Conference (2019)
 * IGAC Science Conference (2016)
 * NASA LCLUC Science Team Meeting (2020)
+
+## Teaching
+- Atmospheric Physics, 2018 Fall
+- Advanced Geoinformatics, 2020 Spring, 2020 Fall, 2021 Spring
+- Introduction to GIS, 2021 Fall
+- Python Programming for Geosciences, 2021 Fall
