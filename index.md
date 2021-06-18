@@ -7,10 +7,10 @@ The ABCI research group is located in the [Department of Geological and Mining E
 ##### 2021/05
 - Two new PhD students (Yuxi Jin and Di Sang) joined the group. Welcome!
 - Dr. Xi gave an oral presentation at the Central Asian Regional Information Network workshop (virtual).
-- New publication at JGR: [Revisiting the recent dust trends and climate drivers using horizontal visibility and present weather observations](https://doi.org/10.1029/2021JD034687). The paper comes with an initial version (v1) of duISD product, which can be downloaded [here](http://dx.doi.org/10.5281/zenodo.4107346).
+- New publication at JGR: [Revisiting the recent dust trends and climate drivers using horizontal visibility and present weather observations](https://drive.google.com/file/d/1ThV3tvqwkqns0F9B8OvWgMBDelyGFd1Q/view?usp=sharing). The paper comes with an initial version (v1) of duISD product, which can be downloaded [here](http://dx.doi.org/10.5281/zenodo.4107346).
 
 ##### 2020/10
-- Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf) on the project description.
+- Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf).
 
 ##### 2020/09
 - Dr. Xi is awarded a 3-yr grant from NASA to study desertification and air quality in Central Asia. 
@@ -50,12 +50,6 @@ The ABCI research group is located in the [Department of Geological and Mining E
 * Xi, X., and Sokolik, I. N. (2015). Dust interannual variability and trend in Central Asia from 2000 to 2014 and their climatic linkages. Journal of Geophysical Research: Atmospheres, 120(23), 12,175-112,197. [https://doi.org/10.1002/2015JD024092](https://doi.org/10.1002/2015JD024092).[[view]](https://drive.google.com/file/d/1m8pPclQNTgdEL8TpWcSZyo2roPliPTkQ/view?usp=sharing)
 * Xi, X., and Sokolik, I. N. (2015). Seasonal dynamics of threshold friction velocity and dust emission in Central Asia. Journal of Geophysical Research: Atmospheres, 120(4), 1536-1564. [https://doi.org/10.1002/2014JD022471](https://doi.org/10.1002/2014JD022471) [[open access]](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2014JD022471).
 * Xi, X., and Sokolik, I. N. (2012). Impact of Asian Dust Aerosol and Surface Albedo on Photosynthetically Active Radiation and Surface Radiative Balance in Dryland Ecosystems. Advances in Meteorology, 2012, 1-15. [https://doi.org/10.1155/2012/276207](https://doi.org/10.1155/2012/276207) [[open access]](https://downloads.hindawi.com/journals/amete/2012/276207.pdf)
-
-## Teaching
-- Atmospheric Physics, 2018 Fall
-- Advanced Geoinformatics, 2020 Spring, 2020 Fall, 2021 Spring
-- Introduction to GIS, 2021 Fall
-- Python Programming for Geosciences, 2021 Fall
 
 ## Notes
 - Dr. Alan Robock, Editor of Reviews of Geophysics and a professor at Rutgers University, wrote two pieces on how to prepare a manuscript to increase your chance of getting a speedy and fair review. [Part 1](https://eos.org/editors-vox/getting-your-paper-published-part-1-dont-annoy-the-reviewers); [Part 2](https://eos.org/editors-vox/getting-your-paper-published-part-2-good-grammar-clear-figures)
