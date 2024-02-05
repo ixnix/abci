@@ -3,18 +3,6 @@
 ## About
 The ABCI research group is located in the [Department of Geological and Mining Engineering and Sciences](https://www.mtu.edu/geo/), Michigan Technological University. The group has broad interests in the life cycle of atmospheric aerosols, their interactions with land-cover/land-use changes, and consequences on the ecosystems, air quality and climate. The group applies an integrated approach of remote sensing, in situ measurements, and statistical and physical models to study the mechcanisms, relationships, and impact of aerosol-biosphere-climate interactions.
 
-## News
-##### 2021/05
-- Two new PhD students (Yuxi Jin and Di Sang) joined the group. Welcome!
-- Dr. Xi gave an oral presentation at the Central Asian Regional Information Network workshop (virtual).
-- New publication at JGR: [Revisiting the recent dust trends and climate drivers using horizontal visibility and present weather observations](https://drive.google.com/file/d/1ThV3tvqwkqns0F9B8OvWgMBDelyGFd1Q/view?usp=sharing). The paper comes with an initial version (v1) of duISD product, which can be downloaded [here](http://dx.doi.org/10.5281/zenodo.4107346).
-
-##### 2020/10
-- Dr. Xi attended the [2020 NASA LCLUC Annual Science Team Meeting](https://lcluc.umd.edu/meetings/2020-nasa-lcluc-annual-science-team-meeting?page=) and gave an [oral presentation](https://lcluc.umd.edu/sites/default/files/lcluc_documents/STM%20D3%202%20fINAL%20v4%20Day3_XinXi.pdf).
-
-##### 2020/09
-- Dr. Xi is awarded a 3-yr grant from NASA to study desertification and air quality in Central Asia. 
-
 ## Vacancies
 - Fully supported PhD positions are available. Interested applicants should contact [Dr. Xi](mailto:xinxi@mtu.edu) with latest CV.
 
